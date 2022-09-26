@@ -1,21 +1,23 @@
-Hi there 👋
+<i>Hi there</i> 👋
 
-Wilber Paredes - FULL STACK DEVELOPER
+<b><i>Full Stack Developer</i></b> 
 
-💬 ABOUT ME 
+💬 <b>About Me</b>  
 I'm a web developer and innovative mobile application creator with over 9 years of experience.
 Able to adapt to changes, new programming languages, work under pressure with goal fulfillment.
 I having considerable experience in the technical realisation and a good understanding of the creative side of the process.  
 
-🧑‍🎓 EDUCATION  
-University Autonoma del caribe (System Engineer)
-Continuous learning in platzi, udemy and other courses
+🧑‍🎓 <b>Education</b>  
+<ul>
+  <li>University Autonoma del caribe (System Engineer)</li>
+  <li>Continuous learning in platzi, udemy and other courses</li>
+</ul>
 
-👨‍💻 DEVELOPMENT SKILLS  
+👨‍💻 <b>Development Skills</b>  
 JavaScript, ReactJS, NextJS, React Native, Angular, Node.js, NestJS, Python, Django, Asp.net, PHP.
 
-🌿 VERSION CONTROL SKILLS
+🌿 <b>Version Control Skills</b>  
 GitHub, GitLab, Azure Repos
 
-🛢DATABASE SKILLS
+🛢 <b>DataBase Skills</b>  
 PostgreSQL, MongoDB, SQL Server, MariaDB, MySQL.
