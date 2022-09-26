@@ -2,7 +2,7 @@ Hi there 👋
 
 Wilber Paredes - FULL STACK DEVELOPER
 
-💬 ABOUT ME
+💬 ABOUT ME 
 I'm a web developer and innovative mobile application creator with over 9 years of experience.
 Able to adapt to changes, new programming languages, work under pressure with goal fulfillment.
 I having considerable experience in the technical realisation and a good understanding of the creative side of the process.  
